@@ -1,0 +1,31 @@
+{
+    "produtos": [
+        {
+            "codigo": 1,
+            "nome": "arroz",
+            "quantidade": 300
+        },
+        {
+            "codigo": 2,
+            "nome": "feijao",
+            "quantidade": 500
+        }
+    ],
+    "mercados": [
+        {
+            "codMercado": 2,
+            "produtos": [
+                1,
+                2,
+                99
+            ]
+        }
+    ],
+    "precos": [
+        {
+            "codMercado": 1,
+            "codProduto": 1,
+            "preco": 30.00
+        }
+    ]
+}
